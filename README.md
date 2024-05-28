@@ -120,6 +120,3 @@ For any questions or further information, please contact the project team member
 
 
 ---
-```
-
-Ensure you replace placeholders like `your-username`, `your-email@example.com`, `collab1-email@example.com`, and `collab2-email@example.com` with actual values specific to your project.
